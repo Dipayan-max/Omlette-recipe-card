@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+.containeer{
+    background-color: white;
+    margin-top: 5em;
+    padding-top: 2em;
+    padding-left: 2em;
+    margin-left: 32vw;
+    margin-right: 32vw;
+    padding-right: 2em;
+    border-radius: 1em;
+    padding-bottom: 2em;
+    margin-bottom: 5em;
+
+}
+
+
+img{
+    width: 100%;
+    border-radius: 1em;
+}
+.main2{
+    background-color: rgb(238, 213, 217);
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    border-radius: 1em;
+}
+@media(max-width:430px){
+    .containeer{
+        margin: 5px;
+        padding:10px;
+    }
+}
+    
+
+    
